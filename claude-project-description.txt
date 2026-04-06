@@ -1,0 +1,51 @@
+Tana Fellow Support System — Project Description
+Company Context
+Tana is a contractor placement company that places fellows (employees) with external partner companies in roles such as QA, data analysis, software development, and DevOps. Once placed, Tana remains responsible for all HR, support, and employee success functions. Communication happens via Slack (day-to-day) and Zoom (meetings with Talent Success Associates).
+
+Problem Being Solved
+Talent Success Associates (TSAs) manage multiple fellows simultaneously. Without a structured system, it's easy to lose context on each fellow's progress, miss blockers, and fail to follow up on commitments — especially during the critical onboarding 90-day period.
+
+What We're Building
+An AI-powered workflow tool that lives inside Slack with an external Talent Success Dashboard, designed to:
+
+Parse end-of-day (EOD) updates submitted by fellows in Slack
+Surface insights and action items for Talent Success Associates automatically
+Support fellows through a smoother, well-supported 90-day transition
+
+
+EOD Update Structure
+Fellows submit daily updates with three components:
+
+✅ Accomplishments — what they completed that day
+🔜 Next Steps — what they plan to do next
+🚧 Blockers — anything preventing progress (if any)
+
+
+Core Features
+1. Accomplishment Summarization
+
+Extracts and summarizes each fellow's daily accomplishments
+Generates a progress signal for the TSA (e.g. Stable / Needs Monitoring / Requires Attention)
+
+2. Next Steps Tracking
+
+Logs next steps from each EOD update
+Cross-references against the following day's EOD to check whether listed next steps were completed
+Surfaces discrepancies as follow-up items for the TSA
+
+3. Blocker Escalation
+
+Automatically flags any raised blockers
+Adds them as explicit agenda points for the next scheduled meeting between the TSA and the fellow
+
+4. Meeting Cadence Support
+
+Supports the structured meeting frequency: 3x/week → 2x/week → 1x/week
+Ensures TSAs walk into every meeting with relevant, pre-populated context per fellow
+
+
+System Architecture (High Level)
+LayerToolPurposeFellow interactionSlackEOD update submissionAI processingThis toolParsing, summarization, flag generationTSA workspaceDashboard (external)Per-fellow summaries, blockers, next step trackingKnowledge baseMeeting notes + EOD updatesData source for the dashboard
+
+Goal
+Ensure every Tana fellow has a well-supported, closely monitored 90-day onboarding experience — and that every Talent Success Associate has the right context to provide timely, meaningful support, regardless of how many fellows they're managing.
