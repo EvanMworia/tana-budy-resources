@@ -1,0 +1,22 @@
+FRONTEND
+Framework: Next.js
+Styling: App router UI with simple dashboard and docs views
+Hosted on: Vercel Hobby
+
+AI LAYER
+Model for EOD and coaching: Claude Haiku
+Model for manager sync briefs: Claude Sonnet
+Output format: structured JSON for downstream parsing
+
+BACKEND
+Runtime: Next.js API routes
+Database: Xata PostgreSQL endpoint
+Auth: simple team password cookie auth
+
+REPO
+GitHub repo: Co-Anthro
+Branching strategy: main as working branch for the hackathon workspace
+Deployment: Vercel auto-deploy from main
+
+ENVIRONMENT
+API keys needed: XATA_DB_URL, TEAM_PASSWORD, AUTH_SECRET

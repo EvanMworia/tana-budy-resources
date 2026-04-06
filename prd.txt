@@ -1,0 +1,23 @@
+PROBLEM
+Early-career Kenyan professionals placed with European companies have to prove themselves in unfamiliar work contexts, manage dual reporting, and grow fast without a reliable day-to-day guide..
+
+USER
+Primary user: the placed professional who needs coaching, clarification, and support inside Slack.
+Secondary user: the TS associate who needs real-time visibility across a portfolio of professionals.
+
+CORE FEATURES (MVP only)
+1. Slack-based EOD reading and thread response.
+2. Private DM coaching with structured AI responses.
+3. TS dashboard with portfolio health, risk flags, and manager sync prep.
+
+OUT OF SCOPE
+- Client manager access.
+- Full onboarding and consent flow.
+- Cohort analytics and advanced reporting.
+- Non-essential reflection automation.
+
+SUCCESS METRICS
+- Professionals feel understood and supported.
+- TS associates can identify who needs attention without reading every message.
+- Placement outcomes improve through earlier intervention.
+- A judge can understand the demo flow and the value in under 3 minutes.

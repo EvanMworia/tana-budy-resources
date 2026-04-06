@@ -1,0 +1,10 @@
+Amara, 24 - Junior Data Analyst
+Situation: Three weeks into placement with a Dutch fintech. Remote from Nairobi, managing a 2-hour timezone gap, trying to adapt to a new work culture.
+Pain point: Gets vague feedback, does not know how to act on it, and feels vulnerable asking for help in front of a client manager.
+Need: A guide that feels safe, reads carefully, responds specifically, and helps her improve without making the struggle feel bigger than it is.
+Quote: "I work hard but I do not know if I am growing in the right direction."
+
+Brian - TS Associate at Tana
+Situation: Manages a portfolio of professionals across multiple client companies.
+Pain point: Too many messages to read deeply, cannot spot patterns without piecing them together manually, and often walks into calls without a clear view of what to probe.
+Need: A tool that reads everything and surfaces what matters, with risk flags and suggested questions before manager calls.

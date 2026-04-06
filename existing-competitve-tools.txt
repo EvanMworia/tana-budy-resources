@@ -1,0 +1,21 @@
+TOOL 1: Manual TS tracking
+What it does: Helps associates keep notes and follow up manually.
+What it lacks: No automatic reading of EODs, no real-time risk signals, and no proactive coaching loop.
+Our angle vs this: Tana Buddy reads the signal where the work already happens and turns it into action.
+
+TOOL 2: Generic Slack bot
+What it does: Sends reminders or simple commands in Slack.
+What it lacks: No placement context, no coaching depth, and no support for TS portfolio visibility.
+Our angle vs this: Tana Buddy is purpose-built for placement support and associate oversight.
+
+TOOL 3: Generic wellbeing check-in tools
+What it does: Captures moods and wellness self-reports.
+What it lacks: Weak workflow integration and little connection to actual work output.
+Our angle vs this: Tana Buddy combines wellbeing signals with professional context and manager prep.
+
+SUMMARY
+Why our solution is different: it sits inside Slack, understands the placement context, and serves both the professional and TS associate.
+Kenya/Africa-specific advantage: it is tuned for early-career placement realities, time zones, and cross-cultural reporting pressure.
+
+WHY US
+A solution that is trained specifically for tana, understands each user profile from day 1 and it's already in the tools you already use, no alert fatigue, no app hopping, a sentinel for TS available for context, follow-ups and progress checks.  

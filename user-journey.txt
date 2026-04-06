@@ -1,0 +1,8 @@
+1. Professional posts an end-of-day update in Slack.
+2. Tana Buddy reads the update, checks it against recent context, and replies in the thread with a warm, specific response.
+3. The same signal is summarized into the TS dashboard so associates can see portfolio health, risk flags, and trends.
+4. The professional can also DM Buddy for coaching, feedback interpretation, or support.
+5. If there is a wellbeing concern, the system flags it for TS with a proposed response plan.
+6. Long term, the data is used to train new joiners and improve their success metrics in their client placement.
+
+Key moment: the professional feels noticed and guided, while the TS associate gets the same situation in one place without manual triage.
