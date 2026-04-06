@@ -1,0 +1,21 @@
+Screens-Definitions-and-Functionalities
+
+- Talent Success Landing Page with a list of all the fellows from Tana. This includes even the fellows that they are not managing. Each fellow displayed here, or each person displayed from this list, will have a member ID associated with them, which comes from Slack. Every member displayed here must be on Slack, and that's where we get the member ID from. 
+
+- In the same screen, the Talent Success Associate has two separate tabs:
+1. One that displays all the members
+2. The second tab, when clicked, filters out the fellows and only shows the fellows that the Talent Success Associate manages. For example, using our personas, if Brian the Talent Success Associate logs in to the platform, Brian will see all the fellows. When he clicks the tab or the filter, he will now see only Amara because he manages Amara. 
+
+- A fellow detail screen. When a card or a fellow card is clicked, it opens up a fellow details page where we have all the details about this fellow. It will fetch the most recent EOD and have it as the latest EOD. It will have a list of all the previous EODs in the page somewhere separate. It will have follow-ups for that fellow based on the past blockers and next steps that were reported from EODs or from the last meeting. We will have that section as the follow-ups so that the talent success associate can be able to contextualize where they left off. If Brian clicked on Amara's profile and Amara's last EOD said she had a blocker where GitLab pipelines were failing, Brian will be now able to see one follow-up, area is to ask if the pipelines issue was resolved. 
+
+- A global dashboard for talent success associates to see analytics. It could be charts; it could be anything that branches the data into easily digestible visuals.
+In this global dashboard, they will be able to see:
+- The number of next meetings this week
+- The number of fellows that are marked as risk flags or the ones that need help
+- The number of fellows with blockers
+- Just analytics of the fellows that they manage 
+
+
+-  Add the ability for a talent success screen where they can input meeting notes from weekly meetings with a fellow and add these meeting notes to Tanabadi as additional context for this profile. From the meeting notes, extract any next steps or blockers and add them as a follow-up point for talent success on their next meeting. It has to be relevant or strictly tied to the same profile that mentioned these next steps and blockers.
+
+- 
